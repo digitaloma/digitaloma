@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Websites maintained by us
+
+-----------------------------------------------------------------------
+Website | Status
+--------|--------------------------------------------------------------
+AIET NGO | ![image](https://img.shields.io/website?url=https%3A%2F%2Faietngo.org)
